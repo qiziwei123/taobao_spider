@@ -1,6 +1,6 @@
 #-*- codeing = utf-8 -*-
 #@Time : 2020/3/3 17:51
-#@Author : 李巍
+#@Author : ride
 #@File : spider.py
 #@Software: PyCharm
 
